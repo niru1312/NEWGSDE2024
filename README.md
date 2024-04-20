@@ -1,6 +1,6 @@
 The Challenge: Data Warehouse and Data Pipeline
 Challenge assets are available at:
-https://drive.google.com/drive/folders/1TJeOLemuvVHLUf3O3wMkYcjeaVuwBwk4?usp=drive_link
+
 The above includes a data folder that has several pipe delimited gzipped files of raw
 data. The names of the files start with either hier or fact to signify whether they have
 hierarchy (dimension) or fact data. The word following hier or fact indicates the table
